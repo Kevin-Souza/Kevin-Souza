@@ -6,7 +6,7 @@
 - Meu nome é Kevin Lucas de Souza
 - Natural de Pradópolis - SP
 - Estudante de Análise de Sistemas
-- Meu [Linkedin](linkedin.com/in/kevin-lucas-de-souza-dev)
+- Meu [Linkedin](https://linkedin.com/in/kevin-lucas-de-souza-dev)
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevin-Souza&count_private=true&show_icons=true&theme=react&icon_color=DEG,#2C7FF2,&title_color=#2C7FF2" />
