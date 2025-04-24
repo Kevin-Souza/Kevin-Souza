@@ -5,7 +5,7 @@
 ## Sobre
 - Meu nome é Kevin Lucas de Souza
 - Natural de Pradópolis - SP
-- Estudante de Análise de Sistemas
+- Formado em Análise de Sistemas
 - Meu [Linkedin](https://linkedin.com/in/kevin-lucas-de-souza-dev)
 
 <div>
